@@ -1,16 +1,28 @@
-### Hi there 👋
+# Acerca de mí 👩‍💻
 
-<!--
-**ginapedraza/ginapedraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy una Ingeniera Industrial 🏗️ que decidió aventurarse en el emocionante mundo de la tecnología 🌐. Actualmente, me desempeño como **FrontEnd Developer** 🚀, donde he descubierto un apasionante camino lleno de desafíos y oportunidades para aprender y crecer 📚.
 
-Here are some ideas to get you started:
+## Lo que me hace única 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lo que realmente destaca en mi travesía es mi capacidad innata para:
+
+- **Adaptarme a nuevos entornos** 🔄
+- **Resolver problemas** 🧩
+- **Trabajar en equipo** 🤝
+
+Siempre he sido una entusiasta del **aprendizaje autodidacta** 🧠, y esto me ha llevado a buscar constantemente formas de mejorar y superar obstáculos 🚀.
+
+## Mi conjunto de habilidades 🛠️
+
+A lo largo de mi viaje como desarrolladora FrontEnd, he adquirido experiencia en una variedad de lenguajes y herramientas esenciales, tales como:
+
+- **JavaScript** 📜
+- **HTML** 🌐
+- **CSS** 🎨
+- **GitHub** 🐙
+- **Git** 🌿
+- **Figma** 🎨
+
+Estos conocimientos técnicos son la base de mi pasión por crear experiencias en línea excepcionales y amigables para el usuario 🖥️.
+
+¡Gracias por conocerme! Siempre estoy dispuesta a aprender y afrontar nuevos retos 🚀.
