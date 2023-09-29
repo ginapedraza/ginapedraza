@@ -21,6 +21,7 @@ A lo largo de mi viaje como desarrolladora FrontEnd, he adquirido experiencia en
 - **CSS** 🎨
 - **GitHub** 🐙
 - **Git** 🌿
+- **Node.js** 🚀
 - **Figma** 🎨
 
 Estos conocimientos técnicos son la base de mi pasión por crear experiencias en línea excepcionales y amigables para el usuario 🖥️.
