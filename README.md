@@ -27,3 +27,8 @@ A lo largo de mi viaje como desarrolladora FrontEnd, he adquirido experiencia en
 Estos conocimientos técnicos son la base de mi pasión por crear experiencias en línea excepcionales y amigables para el usuario 🖥️.
 
 ¡Gracias por conocerme! Siempre estoy dispuesta a aprender y afrontar nuevos retos 🚀.
+
+## Contacto ✉️
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gina-pedraza/)) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ginapedraza00@gmail.com)
