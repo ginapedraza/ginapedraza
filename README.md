@@ -1,6 +1,6 @@
 # Acerca de mí 👩‍💻
 
-¡Hola! Soy una Ingeniera Industrial 🏗️ que decidió aventurarse en el emocionante mundo de la tecnología 🌐. Actualmente, me desempeño como **FrontEnd Developer** 🚀, donde he descubierto un apasionante camino lleno de desafíos y oportunidades para aprender y crecer 📚.
+¡Hola! Soy una Ingeniera Industrial 🏗️ que decidió aventurarse en el emocionante mundo de la tecnología 🌐. Actualmente, me desempeño como **Front-End Developer** 🚀, donde he descubierto un apasionante camino lleno de desafíos y oportunidades para aprender y crecer 📚.
 
 ## Lo que me hace única 🌟
 
@@ -19,6 +19,8 @@ A lo largo de mi viaje como desarrolladora FrontEnd, he adquirido experiencia en
 - **JavaScript** 📜
 - **HTML** 🌐
 - **CSS** 🎨
+- **React** 📜
+- **Typescript** 📜
 - **GitHub** 🐙
 - **Git** 🌿
 - **Node.js** 🚀
